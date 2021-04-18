@@ -9,6 +9,7 @@ function Header() {
             <img 
             className="header_logo"
             src="https://preview.thenewsmarket.com/Previews/NonAssetImages/MR_760/source/2d3219ad-9d26-4260-8c3c-a093173b93a1.png" 
+            alt='picture'
             /> 
            
             <div className="header_search">
